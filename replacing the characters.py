@@ -1,0 +1,5 @@
+c=input("enter a string:")
+a=input("enter the character to change :")
+b=input("enter the character to replace:")
+r=c.replace(a,b)
+print("the string after replacing:",r)

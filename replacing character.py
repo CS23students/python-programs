@@ -1,0 +1,6 @@
+# replacing character using for replace()
+a=input('Enter the string: ')
+b=input('Enter the character to be changed: ')
+c=input('Enter the character to be replaced: ')
+s=a.replace(b,c)
+print('The replaced string is',s)
